@@ -99,7 +99,6 @@ export const friends: FriendEntry[] = [
 ];
 
 export const voidFriends: FriendEntry[] = [
-  { name: "八神鬼嗣の文庫", desc: "ダンタリアンの書架", url: "https://onioni.net" },
   { name: "炖鱼的碎碎念", desc: "A salt fish.", url: "https://blog.salt-fish.moe" },
   { name: "Henrietta", desc: "魂兮归来，哀江南。", url: "https://xlog.henri.moe" },
   { name: "红色森林", desc: "Blog of RedForest", url: "https://redforest.org.cn" },
